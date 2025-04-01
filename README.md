@@ -110,6 +110,6 @@ Proyecto académico para el curso de **Inteligencia Artificial** en la **Univers
 
 ## 👩‍💻 Créditos
 
-- **Desarrollado por**: [Tu Nombre]
+- **Desarrollado por**: Diego Ruiz y Fernanda Caneses
 - **Curso**: Inteligencia Artificial
 - **Universidad Rafael Landívar** - Primer semestre 2025
